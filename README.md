@@ -2,6 +2,8 @@
 
 ## 💻 Software Engineer
 
+**📢 Open to new opportunities in embedded systems and software development!**
+
 Passionate about creating innovative solutions and continuously expanding my skill set.
 
 ## 🎓 Education & Experience
@@ -18,7 +20,6 @@ Passionate about creating innovative solutions and continuously expanding my ski
 - 🧠 Adaptable learner with a growth mindset
 - 🖥️ Eager to explore embedded systems
 
-**📢 Open to new opportunities in embedded systems and software development!**
 
 ## 📈 My GitHub Stats
 
