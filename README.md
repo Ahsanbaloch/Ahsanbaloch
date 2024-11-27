@@ -1,6 +1,6 @@
 
 
-![Banner Image](https://raw.githubusercontent.com/Ahsanbaloch/Ahsanbaloch/main/assets/Designer(9).jpeg)
+![Banner Image](https://raw.githubusercontent.com/Ahsanbaloch/Ahsanbaloch/main/assets/Designer.jpeg)
 
 # 👋 Hello, I'm Ahsan Abdul Salam
 
