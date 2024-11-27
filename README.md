@@ -4,7 +4,7 @@
 
 # 👋 Hello, I'm Ahsan Abdul Salam
 
-I'm a passionate Software Engineer with a keen interest in embedded systems and full-stack development. I thrive on creating innovative solutions and continuously expanding my skill set.
+I'm a versatile Software Engineer with a Bachelor's degree in Software Engineering, passionate about bridging the worlds of embedded systems and full-stack development. My journey has led me from full-stack development using Angular, PHP, ASP.NET, and MySQL to diving deep into the realm of C, C++, and modern web technologies like Angular 17 and Django. Through my experiences at 42 Wolfsburg and sea:me, I've expanded my expertise to include Automotive Software Engineering, working with embedded systems, and mastering tools like Docker, Linux/Bash, and various hardware platforms including PiRacer, Arduino, and Raspberry Pi. I'm particularly intrigued by automotive protocols and technologies such as CAN Bus, SOME/IP, and CommonAPI. My diverse skill set allows me to create innovative solutions that span from low-level embedded systems to high-level web applications, always eager to take on new challenges and push the boundaries of technology.
 
 ## 💼 Professional Summary
 
