@@ -12,6 +12,7 @@ I'm a versatile Software Engineer with a Bachelor's degree in Software Engineeri
 - 🎓 Bachelor's in Software Engineering from Pakistan
 - 🏫 Alumnus of 42 Wolfsburg
 - 🌊 Currently pursuing further studies at sea:me
+- Lab Tech and Community Manager
 
 ## 🚀 Skills & Technologies
 
