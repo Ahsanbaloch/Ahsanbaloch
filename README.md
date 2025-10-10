@@ -28,7 +28,7 @@ I'm a versatile Software Engineer with a Bachelor's degree in Software Engineeri
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ahsanbaloch&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsanbaloch&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsanbaloch&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /> -->
 </div>
 
 
