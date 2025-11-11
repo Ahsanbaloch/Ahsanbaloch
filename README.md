@@ -31,11 +31,14 @@ I'm a versatile Software Engineer with a Bachelor's degree in Software Engineeri
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsanbaloch&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /> -->
 </div>
 
-
+<!--
 ## 📢 Open to Opportunities
 
-I'm currently open to new opportunities in embedded systems and software development. Feel free to reach out if you'd like to collaborate or discuss potential roles!
+I'm currently open to new opportunities in embedded systems and software development. Feel free to reach out if you'd like to collaborate or discuss potential roles! -->
 
+## Current Status
+- Currently I am doing internship in NEW Yorker
+- I am using .NET/C#.
 ---
 
 
