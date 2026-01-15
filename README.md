@@ -18,9 +18,9 @@ I'm a versatile Software Engineer with a Bachelor's degree in Software Engineeri
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,django,php,js,angular,mysql,mongodb,postgres,vscode,html,css,bootstrap&perline=6&theme=dark)](https://skillicons.dev)
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently doing 
 
-- Embedded Systems (Automotive software Engineering)
+- Internship as a Software Developer in NewYorker
 
 ## 📈 GitHub Stats
 <div align="center"> 
