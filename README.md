@@ -4,14 +4,20 @@
 
 # 👋 Hello, I'm Ahsan Abdul Salam
 
-I'm a versatile Software Engineer with a Bachelor's degree in Software Engineering, passionate about bridging the worlds of embedded systems and full-stack development. My journey has led me from full-stack development using Angular, PHP, ASP.NET, and MySQL to diving deep into the realm of C, C++, and modern web technologies like Angular 17 and Django. Through my experiences at 42 Wolfsburg and sea:me, I've expanded my expertise to include Automotive Software Engineering, working with embedded systems, and mastering tools like Docker, Linux/Bash, and various hardware platforms including PiRacer, Arduino, and Raspberry Pi. I'm particularly intrigued by automotive protocols and technologies such as CAN Bus, SOME/IP, and CommonAPI. My diverse skill set allows me to create innovative solutions that span from low-level embedded systems to high-level web applications, always eager to take on new challenges and push the boundaries of technology.
+I am a versatile Software Engineer with a Bachelor's degree in Software Engineering, primarily focused on backend development and scalable system architecture, with solid full-stack experience. I have built robust backend services and APIs using C#, Java, Python, Django, ASP.NET, and SQL-based systems, with a strong emphasis on clean architecture, performance optimization, and maintainability.
+
+Alongside backend development, I have worked on full-stack applications using Angular (including Angular 17), integrating responsive frontends with RESTful APIs and real-time services. I am experienced with relational and NoSQL databases, caching solutions like Redis, and containerized environments using Docker and Linux, contributing to CI/CD-driven workflows.
+
+Through my experience at 42 Wolfsburg and SEA:ME, I also gained hands-on exposure to embedded systems and automotive software using C/C++, CAN, and Linux-based platforms. This foundation enhances my understanding of system performance and low-level optimization, complementing my backend expertise.
+
+I enjoy building scalable backend systems while maintaining the ability to contribute across the full stack and understand software from hardware-level considerations to modern web applications.
 
 ## 💼 Professional Summary
 
 - 💻 Software Engineer with 1.5 years of full-stack experience
 - 🎓 Bachelor's in Software Engineering from Pakistan
 - 🏫 Alumnus of 42 Wolfsburg
-- 🌊 Currently pursuing further studies at sea:me
+- 🌊 Sudied Automotive Softwrae Engineering from sea:me
 - Lab Tech and Community Manager
 
 ## 🚀 Skills & Technologies
