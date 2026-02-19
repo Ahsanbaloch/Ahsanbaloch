@@ -25,7 +25,7 @@ I enjoy building scalable backend systems while maintaining the ability to contr
 
 ## 🚀 Skills & Technologies  
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,csharp,python,go,django,springboot,php,js,angular,html,css,bootstrap,mysql,postgres,mongodb,neo4j,docker,linux,bash,arduino,raspberrypi,vscode&perline=8&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,go,django,php,js,angular,html,css,bootstrap,mysql,postgres,mongodb,docker,linux,bash,arduino,raspberrypi,vscode&perline=8&theme=dark)](https://skillicons.dev)  
 
 **Key Areas:** Backend Development | RESTful APIs | Full-Stack Development | Embedded Systems | Data-Driven Applications | CI/CD & DevOps | Real-Time Systems  
 
@@ -61,9 +61,11 @@ I enjoy building scalable backend systems while maintaining the ability to contr
 <div align="center">  
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Ahsanbaloch&theme=dark&background=000000" alt="GitHub Streak" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahsanbaloch&show_icons=true&theme=radical" alt="GitHub Stats" />  
+<img src="https://github-readme-stats.vercel.app/api?username=Ahsanbaloch&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsanbaloch&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsanbaloch&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+
+
 </div>  
 
 ---
