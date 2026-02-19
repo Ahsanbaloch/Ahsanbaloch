@@ -42,7 +42,7 @@ I enjoy building scalable backend systems while maintaining the ability to contr
 
 ## 📂 Notable Projects  
 
-- **Mactcha** – Spring Boot, MongoDB, Neo4j, REST APIs  
+- **Matcha** – Spring Boot, MongoDB, Neo4j, REST APIs  
   Built a dating web application with graph-based matchmaking and real-time notifications.  
 
 - **Instrument Cluster** – C++, Embedded Linux, Microcontrollers, CAN, Arduino, Raspberry Pi  
