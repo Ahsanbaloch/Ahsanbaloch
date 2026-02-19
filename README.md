@@ -1,6 +1,6 @@
 
 
-![Banner Image](https://raw.githubusercontent.com/Ahsanbaloch/Ahsanbaloch/main/assets/Designer.jpeg)
+![Banner Image](https://raw.githubusercontent.com/Ahsanbaloch/Ahsanbaloch/main/assets/Minions.png)
 
 # 👋 Hello, I'm Ahsan Abdul Salam
 
