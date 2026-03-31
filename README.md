@@ -56,7 +56,7 @@ I enjoy building scalable backend systems while maintaining the ability to contr
 
 ---
 
-## 42 Wolfsburg stats
+## 42 Wolfsburg
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ahsalam?1337Badge=off&UM6P=off" alt="ahsalam's 42 stats" /></a>
 
