@@ -1,4 +1,4 @@
-![Banner Image](https://raw.githubusercontent.com/Ahsanbaloch/Ahsanbaloch/main/assets/Minions.png)  
+<!-- ![Banner Image](https://raw.githubusercontent.com/Ahsanbaloch/Ahsanbaloch/main/assets/Minions.png) -->  
 
 # 👋 Hello, I'm Ahsan Abdul Salam  
 
@@ -82,3 +82,5 @@ I enjoy building scalable backend systems while maintaining the ability to contr
 - 🐙 GitHub: [github.com/Ahsanbaloch](https://github.com/Ahsanbaloch)
 
 ---
+
+
