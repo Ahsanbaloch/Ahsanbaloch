@@ -33,7 +33,7 @@ I enjoy building scalable backend systems while maintaining the ability to contr
 
 ## 🌱 Current Work  
 
-- Internship as a **Software Developer at New Yorker**  
+- Junio Software Developer at New Yorker  
 - Developing **backend services using .NET/C#, SQL, and Redis**  
 - Implementing APIs and integrating enterprise data systems  
 - Contributing to **CI/CD pipelines** and production-ready services  
